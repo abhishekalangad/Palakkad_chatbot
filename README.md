@@ -26,7 +26,7 @@ An intelligent and interactive chatbot built to provide accurate and helpful inf
 
 ## 📸 Screenshots
 
-> (Add screenshots here – homepage, chat interface, etc.)
+![image](https://github.com/user-attachments/assets/b1f7d56b-6908-4ece-8ba8-cca6c75022be)
 
 ---
 
