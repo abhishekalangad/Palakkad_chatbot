@@ -16,7 +16,7 @@ export const touristAttractions: TouristAttraction[] = [
       ml: 'കോട്ട വർഷം മുഴുവൻ തുറന്നിരിക്കുന്നു, എന്നാൽ ഒക്ടോബർ മുതൽ മാർച്ച് വരെയുള്ള കാലയളവ് പര്യവേക്ഷണത്തിന് ഏറ്റവും മനോഹരമായ കാലാവസ്ഥ നൽകുന്നു.'
     },
     location: 'Palakkad Town',
-    image: 'https://images.pexels.com/photos/2233013/pexels-photo-2233013.jpeg',
+    image: 'https://i.postimg.cc/jjSG9qns/download.jpg',
     category: 'fort'
   },
   {
@@ -34,14 +34,14 @@ export const touristAttractions: TouristAttraction[] = [
       ml: 'സന്ദർശിക്കാൻ ഏറ്റവും നല്ല സമയം ഡിസംബർ മുതൽ ഏപ്രിൽ വരെയാണ്. മൺസൂൺ കാലത്ത് (ജൂൺ മുതൽ സെപ്റ്റംബർ വരെ) പാർക്ക് അടച്ചിരിക്കും.'
     },
     location: 'Palakkad District',
-    image: 'https://images.pexels.com/photos/5137662/pexels-photo-5137662.jpeg',
+    image: 'https://i.postimg.cc/XqdhFpmg/1-silent-valley-national-park-palakkad-kerala-attr-hero.jpg',
     category: 'park'
   },
   {
     id: 'malampuzha-dam',
     name: {
-      en: 'Malampuzha Dam & Gardens',
-      ml: 'മലമ്പുഴ ഡാം & ഗാർഡൻസ്'
+      en: 'Malampuzha Dam',
+      ml: 'മലമ്പുഴ ഡാം'
     },
     description: {
       en: 'The largest reservoir in Kerala, Malampuzha Dam is famous for its beautiful gardens, ropeway, fish-shaped aquarium, and the stunning "Yakshi" (enchantress) sculpture created by renowned artist Kanai Kunhiraman. The garden also features musical fountains and a snake park.',
@@ -52,7 +52,7 @@ export const touristAttractions: TouristAttraction[] = [
       ml: 'ഒക്ടോബർ മുതൽ ഏപ്രിൽ വരെയാണ് ഡാമും ഗാർഡനുകളും സന്ദർശിക്കാൻ ഏറ്റവും അനുയോജ്യമായ സമയം. വൈകുന്നേരങ്ങളിൽ ഉദ്യാനങ്ങൾ പ്രകാശിതമാകുന്നു, അത് വൈകുന്നേര സന്ദർശനത്തിന് ഒരു മികച്ച സ്ഥലമാക്കുന്നു.'
     },
     location: '10 km from Palakkad Town',
-    image: 'https://images.pexels.com/photos/13916254/pexels-photo-13916254.jpeg',
+    image: 'https://i.postimg.cc/ZRCz9YJf/603886-608466172537097-1841846777-n.jpg',
     category: 'dam'
   },
   {
@@ -70,7 +70,7 @@ export const touristAttractions: TouristAttraction[] = [
       ml: 'വർഷം മുഴുവൻ കുന്നുകൾ മനോഹരമാണ്, എന്നാൽ കാലാവസ്ഥ സുഖകരവും വ്യക്തമായ കാഴ്ചകളും സാധ്യമാകുന്ന ഒക്ടോബർ മുതൽ മേയ് വരെയുള്ള കാലയളവിൽ പ്രത്യേകിച്ചും ആകർഷണീയമാണ്.'
     },
     location: '60 km from Palakkad Town',
-    image: 'https://images.pexels.com/photos/2609954/pexels-photo-2609954.jpeg',
+    image: 'https://i.postimg.cc/T25XfP71/nelliyampathy-hills-palakkad20131031111644-152-1.jpg',
     category: 'hills'
   },
   {
@@ -88,7 +88,7 @@ export const touristAttractions: TouristAttraction[] = [
       ml: 'ഒക്ടോബർ മുതൽ മേയ് വരെയാണ് സന്ദർശിക്കാൻ ഏറ്റവും നല്ല സമയം, മൃഗങ്ങൾ ജലസ്രോതസ്സുകൾക്ക് ചുറ്റും ഒത്തുകൂടുന്ന വേനൽക്കാലത്ത് (മാർച്ച് മുതൽ മേയ് വരെ) വന്യജീവികളെ കാണാനുള്ള സാധ്യത ഏറ്റവും കൂടുതലാണ്.'
     },
     location: '100 km from Palakkad Town',
-    image: 'https://images.pexels.com/photos/11723595/pexels-photo-11723595.jpeg',
+    image: 'https://i.postimg.cc/qMfHRdSL/parambikulam-2-20230206182132647794.webp',
     category: 'reserve'
   },
   {
@@ -106,7 +106,7 @@ export const touristAttractions: TouristAttraction[] = [
       ml: 'കേരളത്തിലെ ഏറ്റവും പ്രധാനപ്പെട്ട ക്ഷേത്ര ഉത്സവങ്ങളിൽ ഒന്നായ ഗംഭീരമായ കൽപ്പാത്തി രഥോത്സവം (തേരോത്സവം) കാണാൻ നവംബറിൽ സന്ദർശിക്കുക.'
     },
     location: 'Kalpathy, Palakkad Town',
-    image: 'https://images.pexels.com/photos/7266707/pexels-photo-7266707.jpeg',
+    image: 'https://i.postimg.cc/0QfPSXSQ/download.jpg',
     category: 'temple'
   }
 ];

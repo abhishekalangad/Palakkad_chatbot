@@ -16,7 +16,7 @@ export const templeFestivals: TempleFestival[] = [
       ml: 'സാധാരണയായി ഏപ്രിൽ അല്ലെങ്കിൽ മേയ് മാസത്തിൽ ആഘോഷിക്കുന്നു, ആയിരക്കണക്കിന് ഭക്തരെ ആകർഷിക്കുന്ന പ്രധാന ഉത്സവ ദിനം (വേല).'
     },
     location: 'Nellikulangara Bhagavathy Temple, Nenmara, Palakkad',
-    image: 'https://images.pexels.com/photos/18971865/pexels-photo-18971865/free-photo-of-temple-elephant-in-kerala-india.jpeg'
+    image: 'https://i.postimg.cc/nLXD072p/98c96c01a1f44ff68e610e42387a56b7.jpg',
   },
   {
     id: 'kavassery-pooram',
@@ -33,7 +33,7 @@ export const templeFestivals: TempleFestival[] = [
       ml: 'ഉത്സവം മീനം മാസത്തിൽ (മാർച്ച്-ഏപ്രിൽ) നടക്കുന്നു, ഒരു പാട് ദിവസങ്ങൾ നീണ്ടുനിൽക്കുന്നു.'
     },
     location: 'Kavalappara Kotta Siva Temple, Kavassery, Palakkad',
-    image: 'https://images.pexels.com/photos/1701969/pexels-photo-1701969.jpeg'
+    image: 'https://i.postimg.cc/m26ZVn51/download.jpg'
   },
   {
     id: 'kalpathy-ratholsavam',
@@ -50,7 +50,7 @@ export const templeFestivals: TempleFestival[] = [
       ml: 'നവംബറിൽ ആഘോഷിക്കുന്ന ഈ ഉത്സവം 7 ദിവസം നീണ്ടുനിൽക്കും, രഥോത്സവം (തേര് പ്രദക്ഷിണം) ആണ് പ്രധാന ആകർഷണം.'
     },
     location: 'Sri Viswanatha Swamy Temple, Kalpathy, Palakkad',
-    image: 'https://images.pexels.com/photos/6939744/pexels-photo-6939744.jpeg'
+    image: 'https://i.postimg.cc/0QfPSXSQ/download.jpg'
   },
   {
     id: 'manappullikavu-vela',
@@ -67,6 +67,6 @@ export const templeFestivals: TempleFestival[] = [
       ml: 'സാധാരണയായി ഫെബ്രുവരി അല്ലെങ്കിൽ മാർച്ച് മാസത്തിൽ നടത്തപ്പെടുന്ന ഈ ഉത്സവം വിവിധ ചടങ്ങുകളും സാംസ്കാരിക പ്രകടനങ്ങളുമായി നിരവധി ദിവസങ്ങളിലായി നീണ്ടുനിൽക്കുന്നു.'
     },
     location: 'Manappullikavu Bhagavathy Temple, Palakkad',
-    image: 'https://images.pexels.com/photos/14415501/pexels-photo-14415501.jpeg'
+    image: 'https://i.postimg.cc/KzZym7Wy/images.jpg'
   }
 ];

@@ -16,7 +16,7 @@ interface Translations {
 
 const translations: Record<Language, Translations> = {
   en: {
-    welcomeMessage: "Hello! I'm your Palakkad Tourism Guide. How can I help you explore the cultural heritage and natural beauty of Palakkad?",
+    welcomeMessage: "Hello! I'm Zaira your Palakkad Tourism Guide. How can I help you explore the cultural heritage and natural beauty of Palakkad?",
     inputPlaceholder: "Ask about attractions, festivals, or culture...",
     sendButton: "Send",
     suggestedQuestions: "Suggested Questions",

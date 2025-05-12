@@ -28,7 +28,7 @@ const Header: React.FC = () => {
         <div className="flex items-center">
           <MapPin className="h-6 w-6 text-green-600 mr-2" />
           <h1 className="text-xl font-bold text-green-800">
-            {language === 'en' ? 'Palakkad Guide' : 'പാലക്കാട് ഗൈഡ്'}
+            {language === 'en' ? 'Zaira - Your Travel Guide' : 'സൈറ - നിങ്ങളുടെ ട്രാവൽ ഗൈഡ്'}
           </h1>
         </div>
         
